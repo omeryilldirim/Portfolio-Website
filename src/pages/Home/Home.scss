@@ -14,6 +14,12 @@
     align-items: center;
     gap: 1rem;
 
+    .object_developer{
+        animation: rotate 10s infinite linear both alternate;
+        z-index: 1;
+        margin-bottom: 1rem;
+        filter:invert(1) sepia(1) hue-rotate(100deg) 
+    }
     .greet{
         color: $text-color;
     }
@@ -22,7 +28,7 @@
         border-bottom: 1px solid $secondary-color;
         font-family:$tertiary-font;
         letter-spacing:0.3rem;
-        animation: rotate 20s linear 3s infinite;
+        // animation: rotate 20s linear 3s infinite;
     }
     .title{
         color: $text-color;
@@ -33,11 +39,11 @@
 
 @keyframes rotate {
     0%   {}
-    17%  {transform: translate(-25vw,-35vh)}
-    34%  {transform: translate(-25vw, 35vh) rotate(360deg)}
+    17%  {transform: translate(-5vw,-5vh)}
+    34%  {transform: translate(-5vw, 5vh) }
     51%  {}
-    68%  {transform: translate(25vw, -35vh) rotate(360deg)}
-    85%  {transform: translate(25vw, 35vh);
+    68%  {transform: translate(5vw, -5vh) }
+    85%  {transform: translate(5vw, 5vh);
     }
     100% {}
   }
