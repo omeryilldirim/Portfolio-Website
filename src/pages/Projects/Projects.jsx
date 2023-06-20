@@ -1,6 +1,5 @@
 import "./Projects.scss"
 import {imageData} from "../../helper/imageData.js"
-import { Link } from "react-router-dom"
 
 const Projects = () => {
   return (
