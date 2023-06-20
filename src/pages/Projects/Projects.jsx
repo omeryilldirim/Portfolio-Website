@@ -1,5 +1,6 @@
 import "./Projects.scss"
 import {imageData} from "../../helper/imageData.js"
+import { Link } from "react-router-dom"
 
 const Projects = () => {
   return (
@@ -10,7 +11,7 @@ const Projects = () => {
       <div className="projects-items">
         {imageData.map((item,i) => (
                   <div key={i+1} className="projects-item">
-                    <img className="project-image" src={item.image} alt="My Project" />
+                      <img className="project-image" src={item.image} alt="My Project" />
                   </div>
         ))}
       </div>
