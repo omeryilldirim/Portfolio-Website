@@ -2,12 +2,12 @@ import accordion from "../assets/img/accordion.png";
 import blog from "../assets/img/blog.gif";
 import business from "../assets/img/business.gif";
 import checkout from "../assets/img/checkout.png";
-import clock from "../assets/img/clock.png";
 import country from "../assets/img/country.png";
-import f1 from "../assets/img/f1.png";
-import google from "../assets/img/google.png";
+// import clock from "../assets/img/clock.png";
+// import f1 from "../assets/img/f1.png";
+// import google from "../assets/img/google.png";
+// import ios from "../assets/img/ios.jpg";
 import horoscope from "../assets/img/horoscope.png";
-import ios from "../assets/img/ios.jpg";
 import library from "../assets/img/library.gif";
 import movie from "../assets/img/movie.gif";
 import nba from "../assets/img/nba.gif";
@@ -42,8 +42,8 @@ export const imageData = [
   { image: country, link:"https://omeryilldirim.github.io/Guess-The-Country/" },
   { image: number, link:"https://omeryilldirim.github.io/Guess-The-Number/" },
   { image: webdesign, link:"https://omeryilldirim.github.io/Web-Design-Page/" },
-  { image: f1, link:"https://omeryilldirim.github.io/F1-teams-webpage/" },
-  { image: clock, link:"https://omeryilldirim.github.io/Digital-Clock/" },
-  { image: google, link:"https://omeryilldirim.github.io/Google-Landing-Page/" },
-  { image: ios, link:"https://omeryilldirim.github.io/IOS-Calculator/" },
+  // { image: f1, link:"https://omeryilldirim.github.io/F1-teams-webpage/" },
+  // { image: clock, link:"https://omeryilldirim.github.io/Digital-Clock/" },
+  // { image: google, link:"https://omeryilldirim.github.io/Google-Landing-Page/" },
+  // { image: ios, link:"https://omeryilldirim.github.io/IOS-Calculator/" },
 ];
