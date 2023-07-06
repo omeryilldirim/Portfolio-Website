@@ -21,6 +21,7 @@ import todo from "../assets/img/todo.jpg";
 import tour from "../assets/img/tour.png";
 import weather from "../assets/img/weather.jpg";
 import webdesign from "../assets/img/webdesign.gif";
+import chakra from "../assets/img/chakra.gif";
 
 export const imageData = [
   { image: stock, link:"https://mryldrm-stock.netlify.app/" },
@@ -29,6 +30,7 @@ export const imageData = [
   { image: recipe, link:"https://mryldrm-recipe.netlify.app/" },
   { image: library, link:"https://mryldrm-library.netlify.app/" },
   { image: nba, link:"https://omeryilldirim.github.io/nba-legends/" },
+  { image:  chakra, link:"https://github.com/omeryilldirim/Chakra-UI-Project"},
   { image: weather, link:"https://omeryilldirim.github.io/Weather-App/" },
   { image: todo, link:"https://omeryilldirim.github.io/To-Do-App/" },
   { image: task, link:"https://mryldrm-task-tracker.netlify.app/" },
