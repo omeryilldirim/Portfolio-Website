@@ -6,16 +6,13 @@ const About = () => {
       <div className="about-bio">
         <h2>BIO</h2>
         <p>
-          As a responsible individual, I have always tried to do my job to the
+          As a responsible individual, I have always strived to do my job to the
           best of my ability throughout my career. I've had various positions
           that have helped me enhance my leadership, problem-solving, time
           management, flexibility, and communication skills. I'd like to further
           my own growth as a web developer. I believe that the field of
           information technology is an ideal fit for me and my career is going
           to flourish in this field of work. 
-        </p>
-        <p>
-          I've successfully completed IT school training to acquire the skills and competencies I need while I am currently pursuing a career in full-stack web development.
         </p>
         <p>
           As a driven professional, I am eager to take on new challenges and learning new technologies and tools.I look forward to applying my skills and expertise to full-stack web development and collaborating with industry professionals to create innovative and effective solutions.
@@ -27,6 +24,14 @@ const About = () => {
         </p>
       </div>
       <div className="about-experience">
+        <div className="about-job">
+          <h4 className="job-title">Frontend Developer</h4>
+          <h4 className="job-company">Abb Garjan Group, Istanbul</h4>
+          <h5 className="job-year">July 2023 – Present</h5>
+          <p>
+          Chakra UI · React.js · JavaScript · Agile Web Development · Front-End Development
+          </p>
+        </div>
         <div className="about-job">
           <h4 className="job-title">Technical and Logistic Manager</h4>
           <h4 className="job-company">PAD Global Co. UK, Istanbul</h4>
