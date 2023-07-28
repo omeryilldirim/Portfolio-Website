@@ -22,7 +22,6 @@
         box-shadow: 0 0 70px 20px rgba(124, 200, 237, 0.668);
         background: transparent;
         border-radius: 100%;
-        // filter:invert(1) sepia(1) hue-rotate(100deg) 
     }
     .greet{
         color: $text-color;
@@ -32,7 +31,6 @@
         border-bottom: 1px solid $secondary-color;
         font-family:$tertiary-font;
         letter-spacing:0.3rem;
-        // animation: rotate 20s linear 3s infinite;
     }
     .title{
         color: $text-color;
