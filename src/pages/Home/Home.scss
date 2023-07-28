@@ -19,6 +19,9 @@
         z-index: 1;
         margin-bottom: 1rem;
         width: 12rem;
+        box-shadow: 0 0 70px 20px rgba(124, 200, 237, 0.668);
+        background: transparent;
+        border-radius: 100%;
         // filter:invert(1) sepia(1) hue-rotate(100deg) 
     }
     .greet{
@@ -40,11 +43,11 @@
 
 @keyframes rotate {
     0%   {}
-    17%  {transform: translate(-5vw,-5vh)}
-    34%  {transform: translate(-5vw, 5vh) }
+    17%  {transform: translate(-3vw,-3vh)}
+    34%  {transform: translate(-3vw, 3vh) }
     51%  {}
-    68%  {transform: translate(5vw, -5vh) }
-    85%  {transform: translate(5vw, 5vh);
+    68%  {transform: translate(3vw, -3vh) }
+    85%  {transform: translate(3vw, 3vh);
     }
     100% {}
   }

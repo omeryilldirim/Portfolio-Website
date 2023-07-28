@@ -29,7 +29,7 @@ const About = () => {
           <h4 className="job-company">Abb Garjan Group, Istanbul</h4>
           <h5 className="job-year">July 2023 – Present</h5>
           <p>
-          Chakra UI · React.js · JavaScript · Agile Web Development · Front-End Development
+          Chakra UI · React.js · Redux Toolkit · RTK Query · JavaScript · Agile Web Development · Front-End Development
           </p>
         </div>
         <div className="about-job">
