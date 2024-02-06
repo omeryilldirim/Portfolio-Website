@@ -38,6 +38,7 @@
                 width: 270px;
                 height: 180px;
                 border-bottom: 3px solid $tertiary-color;
+                object-fit: contain;
             }
             &::after{
                 content: '';
