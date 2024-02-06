@@ -26,10 +26,10 @@ const About = () => {
       <div className="about-experience">
         <div className="about-job">
           <h4 className="job-title">Frontend Developer</h4>
-          <h4 className="job-company">Abb Garjan Group, Istanbul</h4>
+          <h4 className="job-company">Agent Sphere, Istanbul</h4>
           <h5 className="job-year">July 2023 – Present</h5>
           <p>
-          Chakra UI · React.js · Redux Toolkit · RTK Query · JavaScript · Agile Web Development · Front-End Development
+          React.js · React Native · Redux Toolkit · RTK Query · Agile Web Development · Front-End Development
           </p>
         </div>
         <div className="about-job">
