@@ -25,8 +25,8 @@ import chakra from "../assets/img/chakra.gif";
 import agentsphereapp from "../assets/img/agentsphereapp.gif";
 
 export const imageData = [
-  { image: agentsphereapp, link:"" },
-  { image: stock, link:"https://apps.apple.com/tr/app/agentsphere/id6472581045?platform=iphone" },
+  { image: agentsphereapp, link:"https://apps.apple.com/tr/app/agentsphere/id6472581045?platform=iphone" },
+  { image: stock, link:"https://mryldrm-stock.netlify.app/" },
   { image: blog, link:"https://mryldrm-blog-app.netlify.app/" },
   { image: movie, link:"https://mryldrm-movie.netlify.app/" },
   { image: recipe, link:"https://mryldrm-recipe.netlify.app/" },
